@@ -1,0 +1,45 @@
+List of commands:
+-----------------
+help
+cls
+list-dir
+echo
+open-file filename
+open-folder foldername
+create-file filename.txt
+write-file filename
+read-file filename
+file info filename
+delete-file filename 
+copy-file filename
+rename-file oldname newname 
+file-size filename 
+file-help 
+date 
+time 
+date-time 
+show-ip
+show-mac
+whoami
+display-location
+shutdown
+reboot
+hybernate
+shutdown -interval
+restart -interval
+hybernate -interval
+sleep
+abort-shutown abort-restart abort-hybernate
+computer-info
+show-disk
+sotware-info
+compile-c filename.c
+compile-cpp filename.cpp
+open-appname
+open-websitename
+open-chrome
+open-notepad
+open-youtube
+open-wikipedia
+open-google
+exit

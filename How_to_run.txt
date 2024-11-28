@@ -1,0 +1,4 @@
+-> Save the file in your local computer.
+-> compile and run the file in terminal (java Main.java / javac Main.java, java Main)
+-> compile-c abc.c / compile-cpp abc.cpp will only work if mingw is installed on your local machine. 
+-> If open-chrome, open-youtube are not working, check with the paths used in the code. Chrome may be installed on different location on your local computer. 
